@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/SafteyDav3/just-another-RPG/issues"
   },
-  "homepage": "https://github.com/SafteyDav3/just-another-RPG#readme"
+  "homepage": "https://github.com/SafteyDav3/just-another-RPG#readme",
+  "devDependencies": {
+    "jest": "^28.0.3"
+  }
 }
