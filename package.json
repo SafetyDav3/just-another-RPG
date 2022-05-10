@@ -18,5 +18,8 @@
   "homepage": "https://github.com/SafteyDav3/just-another-RPG#readme",
   "devDependencies": {
     "jest": "^28.0.3"
+  },
+  "dependencies": {
+    "@types/jest": "^27.5.0"
   }
 }
